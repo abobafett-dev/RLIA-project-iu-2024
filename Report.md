@@ -17,7 +17,7 @@
 * The number of points is the amount of money the player has collected.
 
 ### <p style="text-align: center;">Preprocessing</p>
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/abobafett-dev/RLIA-project-iu-2024/main/Report%20media/output.png" alt="drawing" width="700"/></p>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/abobafett-dev/RLIA-project-iu-2024/main/Report%20media/output1.png" alt="drawing" width="700"/></p>
 
 #### <p style="text-align: center;"> Left image - unprocessed image, right image - preprocessed matrix of states.</p>
 From environment, we get an observation of the current step (grayscale image of the game 210x160 pixels represented by numpy array with uint8 data type).
